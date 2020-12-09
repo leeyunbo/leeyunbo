@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 -->
 
 ![yunbok's github stats](https://github-readme-stats.vercel.app/api?username=leeyunbo&show_icons=true)
-
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=servers1)](https://solved.ac/servers1)
