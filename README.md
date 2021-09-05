@@ -1,6 +1,6 @@
 ### 이윤복
 
-Spring Framework🌱를 집중적으로 학습하고 있습니다 🤔 
+Backend를 집중적으로 학습하고 있습니다 🤔 
 
 <!--
 **leeyunbo/leeyunbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
