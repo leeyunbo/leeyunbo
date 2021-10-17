@@ -4,7 +4,6 @@
 
 #### 🔭  진행중인 프로젝트
 1. [GitHub - leeyunbo/my_wardrobe_service: 나만의 옷장 서비스 ‘ㅡ’](https://github.com/leeyunbo/my_wardrobe_service)
-2. [GitHub - leeyunbo/begonevegan: 비건 맛집 지도 프로젝트🌱](https://github.com/leeyunbo/begonevegan)
 
 #### 기술 스택 
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=JAVA&logoColor=white"><img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=C Sharp&logoColor=white"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JAVASCRIPT&logoColor=white"> <br/>
