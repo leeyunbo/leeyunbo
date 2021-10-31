@@ -1,7 +1,5 @@
 ### 이윤복
 
-🌱 Backend를 집중적으로 학습하고 있습니다 🤔 
-
 #### 🔭  진행중인 프로젝트
 1. [GitHub - leeyunbo/my_wardrobe_service: 나만의 옷장 서비스 ‘ㅡ’](https://github.com/leeyunbo/my_wardrobe_service)
 
