@@ -1,11 +1,9 @@
-### 이윤복
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=YUNBOK%20GITHUB&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Made%20In%20Yunbok&descAlignY=51&descAlign=62"/>
+</p>
 
-#### 🔭  진행중인 프로젝트
 
-#### 기술 스택 
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=JAVA&logoColor=white"><img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=C Sharp&logoColor=white"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JAVASCRIPT&logoColor=white"> <br/>
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.NET&logoColor=white"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"> <br/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"><img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=Microsoft SQL Server&logoColor=white">
+
 
 <br/>
 
@@ -23,5 +21,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![yunbok's github stats](https://github-readme-stats.vercel.app/api?username=leeyunbo&show_icons=true)
