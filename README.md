@@ -1,9 +1,13 @@
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=YUNBOK%20GITHUB&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=YUNBOK%20GITHUB&fontSize=45&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62"/>
 </p>
 
 
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,linux,rabbitmq,kotlin" />
+  </a>
+</p>
 
 <br/>
 
