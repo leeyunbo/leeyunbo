@@ -6,7 +6,7 @@
 <p align="center">Interested In :)</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,rabbitmq,docker" />
+    <img src="https://skillicons.dev/icons?i=java,spring,rabbitmq,docker,mysql" />
   </a>
 </p>
 
