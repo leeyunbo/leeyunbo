@@ -7,6 +7,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,rabbitmq,docker,mysql" />
+    <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/ee34123d-17e6-460e-8e1e-cf14018b7b16" />
   </a>
 </p>
 
